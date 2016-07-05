@@ -3,8 +3,12 @@
 see description.pdf for more
 ```
 ### requirement
-numpy,scipy,pylab
-### usage 
+python2.7,numpy,scipy,pylab
+### usage
+```
+Main class contains in basis.py
+file extend.py contains additional conditions that don't tested yet
+```
 ```
 from basis import NS
 ns=NS()
