@@ -1,6 +1,7 @@
 # NavierStokes
 ```
-see description.pdf for more
+A simple example of flow in a tube with barrier
+See description.pdf for more
 ```
 ### requirement
 python2.7,numpy,scipy,pylab
