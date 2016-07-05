@@ -19,3 +19,8 @@ should  look like:
 ```
 
  ![alt tag](https://raw.githubusercontent.com/valdecar/NavierStokes/master/flow.png)
+
+### References:
+```
+Роуч П. Вычислительная гидродинамика
+```
