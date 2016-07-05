@@ -6,5 +6,6 @@ numpy,scipy,pylab
 ### usage 
 ```
 from basis import NS
-NS.testDefault(timeSteps=22)
+ns=NS()
+ns.testDefault(timeSteps=22)
 it return phase field of solution after 22 steps
