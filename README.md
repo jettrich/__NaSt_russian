@@ -4,7 +4,7 @@ A simple example of flow in a tube with barrier
 See description.pdf for more
 ```
 ### requirement
-python2.7,numpy,scipy,pylab
+python3.4,numpy,scipy,pylab
 ### usage
 ```
 Main class contained in basis.py
